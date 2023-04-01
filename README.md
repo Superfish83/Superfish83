@@ -12,16 +12,16 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%23Sharp&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/%2ENET-512BD4?style=flat-square&logo=%2ENET&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=square&logo=TensorFlow&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=square&logo=HTML5&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=square&logo=CSS3&logoColor=white"/></a>&nbsp    
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=square&logo=Tailwind%20CSS3&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=square&logo=Tailwind CSS3&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=JavaScript&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Next%2Ejs-000000?style=square&logo=Next%2Ejs&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=square&logo=Next.js&logoColor=white"/></a>&nbsp  
 </p>
 
 <h2>About Me</h2>
