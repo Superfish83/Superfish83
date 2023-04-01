@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yeonjun%20Kim&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yeonjun%20Kim&fontSize=90" />
 <h3>안녕하세요, 저는 소프트웨어 분야의 전문가를 꿈꾸는 학생 개발자입니다.</h3>
 
 <br/>
