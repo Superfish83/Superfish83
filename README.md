@@ -3,15 +3,6 @@
 
 <br/>
 
-<h2>About Me</h2>
-<p align="center">
-  <a href="https://sites.google.com/view/yeonjunkim"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=Google%20Drive&logoColor=white&link=https://blog.naver.com/kyjun0803"/></a>&nbsp
-  <a href="https://blog.naver.com/kyjun0803"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/kyjun0803"/></a>&nbsp
-  <a href="https://www.instagram.com/yeonjun_83/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yeonjun_83/"/></a>&nbsp
-</p>
-
-<br/>
-
 <h2>Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
