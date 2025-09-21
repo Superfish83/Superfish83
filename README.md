@@ -3,7 +3,7 @@
 <p>I'm an undergraduate student majoring in <b>Computer Science and Engineering</b>, minoring in <b>Physics</b>.</p>
 
 ![Superfish83's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superfish83&show_icons=true&theme=radical)
-![Superfish83's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Superfish83&layout=compact&theme=radical&hide=Jupyter%20Notebook,HTML,CSS,TeX)
+![Superfish83's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Superfish83&layout=compact&theme=radical&hide=Jupyter%20Notebook,EJS,TeX)
 
 
 <h2>My Blog!</h2>
