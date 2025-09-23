@@ -9,7 +9,7 @@
 <h2>My Blog!</h2>
 <p>I post on academic topics and my experiences.</p>
 
-![Static Badge](https://img.shields.io/badge/Academic%20%2F%20Study%20Blog%20-%20?style=for-the-badge&color=blue&link=https%3A%2F%2Fyeonjun.kr%2F)
+![Static Badge](https://img.shields.io/badge/yeonjun.log%20-%20?style=for-the-badge&color=blue&link=https%3A%2F%2Fyeonjun.kr%2F)
 
 <h2>Skills & Experiences</h2>
 <h4>Programming Languages</h4>
@@ -22,7 +22,7 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </p>
-<h4>RTL Design</h4>
+<h4>Digital Hardware (RTL) Design</h4>
 <p align="center">
   
   ![Verilog](https://img.shields.io/badge/Verilog-444444?style=for-the-badge&logo=realm&logoColor=white)
